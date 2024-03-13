@@ -41,6 +41,7 @@ const styles = StyleSheet.create({
   spacing: {
     flex: 1,
     padding: 5,
+    marginTop: 50,
   },
   bgStyles: {
     backgroundColor: "grey",
